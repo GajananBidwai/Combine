@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		922B0CF12E7069B9000C4C66 /* Combine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Combine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		922B0CF12E7069B9000C4C66 /* CombineExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		922B0CF32E7069B9000C4C66 /* Combine */ = {
+		922B0CF32E7069B9000C4C66 /* CombineExample */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Combine;
+			path = CombineExample;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		922B0CE82E7069B9000C4C66 = {
 			isa = PBXGroup;
 			children = (
-				922B0CF32E7069B9000C4C66 /* Combine */,
+				922B0CF32E7069B9000C4C66 /* CombineExample */,
 				922B0CF22E7069B9000C4C66 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		922B0CF22E7069B9000C4C66 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				922B0CF12E7069B9000C4C66 /* Combine.app */,
+				922B0CF12E7069B9000C4C66 /* CombineExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		922B0CF02E7069B9000C4C66 /* Combine */ = {
+		922B0CF02E7069B9000C4C66 /* CombineExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 922B0CFC2E7069BB000C4C66 /* Build configuration list for PBXNativeTarget "Combine" */;
+			buildConfigurationList = 922B0CFC2E7069BB000C4C66 /* Build configuration list for PBXNativeTarget "CombineExample" */;
 			buildPhases = (
 				922B0CED2E7069B9000C4C66 /* Sources */,
 				922B0CEE2E7069B9000C4C66 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				922B0CF32E7069B9000C4C66 /* Combine */,
+				922B0CF32E7069B9000C4C66 /* CombineExample */,
 			);
-			name = Combine;
+			name = CombineExample;
 			packageProductDependencies = (
 			);
 			productName = Combine;
-			productReference = 922B0CF12E7069B9000C4C66 /* Combine.app */;
+			productReference = 922B0CF12E7069B9000C4C66 /* CombineExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 922B0CEC2E7069B9000C4C66 /* Build configuration list for PBXProject "Combine" */;
+			buildConfigurationList = 922B0CEC2E7069B9000C4C66 /* Build configuration list for PBXProject "CombineExample" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				922B0CF02E7069B9000C4C66 /* Combine */,
+				922B0CF02E7069B9000C4C66 /* CombineExample */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		922B0CEC2E7069B9000C4C66 /* Build configuration list for PBXProject "Combine" */ = {
+		922B0CEC2E7069B9000C4C66 /* Build configuration list for PBXProject "CombineExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				922B0CFA2E7069BB000C4C66 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		922B0CFC2E7069BB000C4C66 /* Build configuration list for PBXNativeTarget "Combine" */ = {
+		922B0CFC2E7069BB000C4C66 /* Build configuration list for PBXNativeTarget "CombineExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				922B0CFD2E7069BB000C4C66 /* Debug */,
